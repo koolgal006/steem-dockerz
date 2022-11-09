@@ -23,7 +23,7 @@ Features:
 To install a witness or seed node:
 
 ```bash
-git clone https://github.com/someguy123/steem-docker.git
+git clone https://github.com/koolgal006/steem-dockerz
 cd steem-docker
 # If you don't already have a docker installation, this will install it for you
 ./run.sh install_docker
